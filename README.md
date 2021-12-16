@@ -19,6 +19,8 @@ To write a program to find the GCD of two numbers using function.
 Developed by: NITHISHWAR S
 RegisterNumber: 21002766
 '''
+
+
 def gcd():
     
     n1=int(input())
